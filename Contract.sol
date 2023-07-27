@@ -1,7 +1,7 @@
 // Define the version of Solidity to use
 pragma solidity ^0.8.0;
 
-// Define the Lottery contract
+// Define the Lottery contract.
 contract Lottery {
     // Set the minimum number of players required to play the lottery
     uint public constant MIN_PLAYERS = 3;
